@@ -1,0 +1,9 @@
+# ninja log v6
+9	1087	7895567802033810	CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	693de3558b6d93dd
+1090	1560	7895567812824924	CMakeProject1.exe	dcac002597dc431a
+48	531	7895573444830124	CMakeFiles/CMakeProject1.dir/imgui/imgui_tables.cpp.obj	60507c753c085436
+65	541	7895573444990856	CMakeFiles/CMakeProject1.dir/imgui/backends/imgui_impl_opengl3.cpp.obj	237e99bd507e4983
+41	689	7895573444752351	CMakeFiles/CMakeProject1.dir/imgui/imgui_draw.cpp.obj	23150315dfc5d627
+54	774	7895573444870293	CMakeFiles/CMakeProject1.dir/imgui/imgui_widgets.cpp.obj	aafe8c835cd4b79
+29	881	7895573444601755	CMakeFiles/CMakeProject1.dir/src/main.cpp.obj	bae3a9fb596ee0b7
+36	1116	7895573444705400	CMakeFiles/CMakeProject1.dir/imgui/imgui.cpp.obj	104ae3f6b3253f4d

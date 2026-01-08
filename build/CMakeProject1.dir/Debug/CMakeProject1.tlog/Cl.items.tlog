@@ -1,0 +1,8 @@
+D:\Testing\CMakeProject1\src\main.cpp;D:\Testing\CMakeProject1\build\CMakeProject1.dir\Debug\main.obj
+D:\Testing\CMakeProject1\imgui\imgui.cpp;D:\Testing\CMakeProject1\build\CMakeProject1.dir\Debug\imgui.obj
+D:\Testing\CMakeProject1\imgui\imgui_draw.cpp;D:\Testing\CMakeProject1\build\CMakeProject1.dir\Debug\imgui_draw.obj
+D:\Testing\CMakeProject1\imgui\imgui_tables.cpp;D:\Testing\CMakeProject1\build\CMakeProject1.dir\Debug\imgui_tables.obj
+D:\Testing\CMakeProject1\imgui\imgui_widgets.cpp;D:\Testing\CMakeProject1\build\CMakeProject1.dir\Debug\imgui_widgets.obj
+D:\Testing\CMakeProject1\imgui\imgui_demo.cpp;D:\Testing\CMakeProject1\build\CMakeProject1.dir\Debug\imgui_demo.obj
+D:\Testing\CMakeProject1\imgui\backends\imgui_impl_win32.cpp;D:\Testing\CMakeProject1\build\CMakeProject1.dir\Debug\imgui_impl_win32.obj
+D:\Testing\CMakeProject1\imgui\backends\imgui_impl_dx11.cpp;D:\Testing\CMakeProject1\build\CMakeProject1.dir\Debug\imgui_impl_dx11.obj
